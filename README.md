@@ -16,9 +16,9 @@ I build AI growth systems that connect a company's website, content, and search 
 | Venture | What it is |
 |---|---|
 | [Reinforce Lab](https://reinforcelab.online) | AI Growth Systems for growth-stage founders and B2B brands. Flagship system: Search Authority OS. Offices in Dhaka and Katy, Texas. |
-| Ranks On Fire LLC | SEO and GEO services (US entity, Delaware) |
+| Ranks On Fire LLC | SEO and GEO services (US entity) |
 | [JA Directives](https://jadirectives.com) | Free online courses and small business insights for career-focused learners and aspiring entrepreneurs |
-| [FarSightX](https://farsightx.com) | FarSightX Media Group, my digital media and publishing venture |
+| [FarSightX](https://farsightx.com) | FarSightX Media Group: a portfolio of niche digital magazines, including BestSportsMag, run on AI-assisted editorial and SEO workflows |
 
 ## Start here
 

@@ -15,14 +15,14 @@ I build AI growth systems that connect a company's website, content, and search 
 
 | Venture | What it is |
 |---|---|
-| [Reinforce Lab](https://reinforcelab.online) | AI Growth Systems for growth-stage founders and B2B brands. Flagship system: Search Authority OS. Offices in Dhaka and Katy, Texas. |
+| [Reinforce Lab Limited](https://reinforcelab.com) | AI Growth Systems for growth-stage founders and B2B brands. Flagship system: Search Authority OS. Offices in Dhaka and Katy, Texas. |
 | Ranks On Fire LLC | SEO and GEO services (US entity) |
 | [JA Directives](https://jadirectives.com) | Free online courses and small business insights for career-focused learners and aspiring entrepreneurs |
 | [FarSightX](https://farsightx.com) | FarSightX Media Group: a portfolio of niche digital magazines, including BestSportsMag, run on AI-assisted editorial and SEO workflows |
 
 ## Start here
 
-Get a baseline of where your site stands in Google and AI search with the free [Search Authority Diagnostic](https://reinforcelab.online/search-authority-diagnostic/). It shows your gaps and the first fixes to make.
+Get a baseline of where your site stands in Google and AI search with the free [Search Authority Diagnostic](https://reinforcelab.com/search-authority-diagnostic/). It shows your gaps and the first fixes to make.
 
 ## Recognition
 
@@ -38,11 +38,11 @@ I started as a pharmacist, with roles in regulatory affairs and export at Beacon
 
 ## Work with me
 
-If your site needs more qualified organic traffic, or you want your brand to show up in AI search answers, start at [reinforcelab.online](https://reinforcelab.online) or [book through my site](https://jamilahmed.com).
+If your site needs more qualified organic traffic, or you want your brand to show up in AI search answers, start at [reinforcelab.com](https://reinforcelab.com) or [book through my site](https://jamilahmed.com).
 
 ## Connect
 
 - Website: [jamilahmed.com](https://jamilahmed.com)
-- Reinforce Lab: [reinforcelab.online](https://reinforcelab.online)
+- Reinforce Lab: [reinforcelab.com](https://reinforcelab.com)
 - LinkedIn: [in/ahmedjamil16](https://www.linkedin.com/in/ahmedjamil16/)
 - X: [@jamilahmed_16](https://x.com/jamilahmed_16)

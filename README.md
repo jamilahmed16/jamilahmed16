@@ -1,26 +1,35 @@
 # Jamil Ahmed
 
-**SEO and AI Search Consultant.** CEO of Ranks On Fire LLC. Founder of Reinforce Lab Limited. Based in Dhaka, Bangladesh.
+**SEO and AI Search Consultant.** CEO of Ranks On Fire LLC. Founder of Reinforce Lab Limited. Pharmacist turned digital entrepreneur. Based in Dhaka, Bangladesh.
 
-I help businesses get found on Google and cited by AI search engines. My work covers SEO, GEO (Generative Engine Optimization), and AI Search, using automation to deliver it at scale.
+I build AI growth systems that connect a company's website, content, and search visibility into one engine, so brands get found on Google and cited by AI search engines.
 
 ## What I do
 
-- **SEO:** technical audits, indexation and crawl fixes, content strategy, on-page optimization
-- **GEO and AI Search:** entity building and structured content so brands are cited in AI-generated answers
-- **Automation:** AI-assisted workflows for audits and on-page changes, built with Claude Code and WordPress MCP
+- **SEO:** technical audits, indexation and crawl fixes, enterprise, international, and local SEO, content strategy
+- **GEO and AI Search:** generative engine optimization, LLM optimization, entity building, and structured content so brands are cited in AI-generated answers
+- **Automation:** AI workflow automation, lead generation systems, and AI agents for content research, evidence verification, QA, and search performance
+- **Industries:** pharmaceutical and life sciences, healthcare, B2B SaaS, e-commerce, manufacturing, professional services, and education
 
-## Companies
+## What I run
 
-| Company | Focus |
+| Venture | What it is |
 |---|---|
+| [Reinforce Lab](https://reinforcelab.online) | AI Growth Systems for growth-stage founders and B2B brands. Flagship system: Search Authority OS. Offices in Dhaka and Katy, Texas. |
 | Ranks On Fire LLC | SEO and GEO services (US entity, Delaware) |
-| Reinforce Lab Limited | AI-powered SEO, GEO, and AI Search consultancy, Dhaka |
+| [JA Directives](https://jadirectives.com) | Free online courses and small business insights for career-focused learners and aspiring entrepreneurs |
+| [FarSightX](https://farsightx.com) | FarSightX Media Group, my digital media and publishing venture |
+
+## Start here
+
+Get a baseline of where your site stands in Google and AI search with the free [Search Authority Diagnostic](https://reinforcelab.online/search-authority-diagnostic/). It shows your gaps and the first fixes to make.
 
 ## Recognition
 
 - Semrush Ambassador
 - Onalytica: Top 3 Business Intelligence Marketing Influencer
+- HackerNoon Startups of the Year 2024: Dhaka winner (Reinforce Lab)
+- Clients include HP, Bikroy.com, and United International University
 - LinkedIn community of 37K+ followers and a newsletter with 7,600+ subscribers
 
 ## Background
@@ -29,10 +38,11 @@ I started as a pharmacist, with roles in regulatory affairs and export at Beacon
 
 ## Work with me
 
-If your site needs more qualified organic traffic, or you want your brand to show up in AI search answers, start at [jamilahmed.com](https://jamilahmed.com).
+If your site needs more qualified organic traffic, or you want your brand to show up in AI search answers, start at [reinforcelab.online](https://reinforcelab.online) or [book through my site](https://jamilahmed.com).
 
 ## Connect
 
 - Website: [jamilahmed.com](https://jamilahmed.com)
+- Reinforce Lab: [reinforcelab.online](https://reinforcelab.online)
 - LinkedIn: [in/ahmedjamil16](https://www.linkedin.com/in/ahmedjamil16/)
 - X: [@jamilahmed_16](https://x.com/jamilahmed_16)

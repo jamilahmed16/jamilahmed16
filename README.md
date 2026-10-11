@@ -20,6 +20,13 @@ I build AI growth systems that connect a company's website, content, and search 
 | [JA Directives](https://jadirectives.com) | Free online courses and small business insights for career-focused learners and aspiring entrepreneurs |
 | [FarSightX](https://farsightx.com) | FarSightX Media Group: a portfolio of niche digital magazines, including BestSportsMag, run on AI-assisted editorial and SEO workflows |
 
+## Featured work
+
+| Project | What it is |
+|---|---|
+| [SEO, GEO and AEO Playbook](https://github.com/jamilahmed16/seo-geo-aeo-playbook) | A vendor-neutral standard for building and fixing sites so they rank in Google and get cited by AI search: build gates, crawl waste fixes, and a URL disposition framework for migrations |
+| [TrendBlog AI](https://github.com/jamilahmed16/trendblog-ai) | An AI editorial tool that turns live sports trends into research-backed, SEO and GEO ready articles, with source grounding, extractability scoring and schema export |
+
 ## Start here
 
 Get a baseline of where your site stands in Google and AI search with the free [Search Authority Diagnostic](https://reinforcelab.com/search-authority-diagnostic/). It shows your gaps and the first fixes to make.
